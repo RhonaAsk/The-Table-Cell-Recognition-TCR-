@@ -1,2 +1,2 @@
 # The-Table-Cell-Recognition-TCR-
-The Table Cell Recognition (TCR) dataset is designed to address the limitations of existing table structure recognition datasets, specifically by providing fine-grained cell-scale annotations that include table footers
+The Table Cell Recognition (TCR) dataset is designed to address the limitations of existing table structure recognition datasets, specifically by providing fine-grained cell-scale annotations that include table footers—a component often overlooked in prior work. This section details the data acquisition, annotation process, quality assurance mechanisms, and distribution of the dataset, ensuring a comprehensive understanding of its construction and utility in enhancing table recognition models.
